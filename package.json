@@ -1,19 +1,18 @@
 {
   "name": "react-to-do-app",
-  "version": "1.0.0",
-  "description": "React Todo App for eexpeeriment",
-  "main": "index.js",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "axios": "^0.20.0",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-scripts": "1.1.4",
+    "uuid": "^8.3.1"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/mnaresh2012/react-to-do-app.git"
-  },
-  "author": "mnaresh2010@aol.com",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/mnaresh2012/react-to-do-app/issues"
-  },
-  "homepage": "https://github.com/mnaresh2012/react-to-do-app#readme"
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
 }
