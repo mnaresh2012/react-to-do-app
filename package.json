@@ -1,0 +1,19 @@
+{
+  "name": "react-to-do-app",
+  "version": "1.0.0",
+  "description": "React Todo App for eexpeeriment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mnaresh2012/react-to-do-app.git"
+  },
+  "author": "mnaresh2010@aol.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mnaresh2012/react-to-do-app/issues"
+  },
+  "homepage": "https://github.com/mnaresh2012/react-to-do-app#readme"
+}
